@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//WebContent/Admin/login.jsp=UTF-8
+encoding//WebContent/WEB-INF/web.xml=GBK
+encoding//WebContent/error.jsp=UTF-8
+encoding//WebContent/newsWeb/content/News.json=UTF-8
+encoding//WebContent/newsWeb/content/Newscontent.jsp=UTF-8
+encoding//WebContent/newsWeb/content/Newspage.jsp=UTF-8
+encoding//WebContent/newsWeb/content/lunbo.jsp=UTF-8
+encoding//WebContent/newsWeb/content/readjson.jsp=UTF-8
+encoding//WebContent/newsWeb/content/readjson2.jsp=UTF-8
+encoding//WebContent/newsWeb/css/skin.css=UTF-8
+encoding//WebContent/newsWeb/js/jquery-2.2.3.min.js=UTF-8
+encoding//WebContent/newsWeb/js/jquery.pagination.js=UTF-8
+encoding/<project>=GBK

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlrewrite>
+	<rule>
+		<!-- 伪静态地址 -->
+		<from>/cn/jk/team/index.html</from>
+		<!-- 实际地址，查询字符串间使用&amp;连接,其值使用$1、$2、$3依次对应 -->
+		<to>/content/index.jsp</to>
+	</rule>
+	<rule>
+		<!-- 伪静态地址 -->
+		<from>/cn/jk/team/newspage.html</from>
+		<!-- 实际地址，查询字符串间使用&amp;连接,其值使用$1、$2、$3依次对应 -->
+		<to>/content/Newspage.jsp</to>
+	</rule>
+	<rule>
+		<!-- 伪静态地址 -->
+		<from>/cn/jk/team/Newscontent.html</from>
+		<!-- 实际地址，查询字符串间使用&amp;连接,其值使用$1、$2、$3依次对应 -->
+		<to>/content/Newscontent.jsp</to>
+	</rule>
+<rule>
+		<!-- 伪静态地址 -->
+		<from>donwold</from>
+		<!-- 实际地址，查询字符串间使用&amp;连接,其值使用$1、$2、$3依次对应 -->
+		<to>/IT007/Download</to>
+	</rule>
+	
+	<!--  ><rule>
+		<from>/ABCDE/(.*)\_(.*).html</from>
+		<to>/Admin/Home.jsp?ID=$1&amp;Name=$2</to>
+	</rule>-->
+
+</urlrewrite>
